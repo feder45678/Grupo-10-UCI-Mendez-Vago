@@ -13,8 +13,9 @@ Prende luces con un numero binario?
 
 ## How to test
 
-TESTT!
+que no explote
+
 
 ## External hardware
 
-TESTT!
+microchips
