@@ -13,8 +13,8 @@ Prende luces con un numero binario?
 
 ## How to test
 
-Explain how to use your project.
+TESTT!
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any.
+TESTT!
